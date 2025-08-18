@@ -1,0 +1,42 @@
+/* index.html */
+
+.title {
+    padding: 20px;
+    text-align: center;
+    margin: 200px auto auto auto;
+    border: solid black;
+    background-color: #a8cadb;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 750px;
+}
+
+div {
+    padding: 30px;
+    text-align: center;
+    border: solid;
+    width: 600px;
+    height: auto;
+    margin: auto auto 20px auto;
+  }
+
+a {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+  .pasta {
+    background-color: #548CA8;
+  }
+  
+  .wonton {
+    background-color: #476072;
+  }
+  
+  .sloppy {
+    background-color: #334257;
+  }
+
+body {
+    background-color: #4f555c;
+}
