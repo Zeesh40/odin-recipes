@@ -37,6 +37,29 @@ a {
     background-color: #334257;
   }
 
-body {
-    background-color: #4f555c;
+
+/* recipe pages */
+
+.home {
+  text-align: center;
+  padding: 20px;
+  color: black;
+  background-color: rgba(233, 248, 255, 0.658);
+  border: 5px solid black;
+  display: inline-block;
 }
+
+.heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  margin-left: 50px;
+  text-decoration: underline;
+}
+
+.image {
+  border: 5px black solid;
+  display: block;
+  margin: 20px 20px 20px 0;
+}
+  
